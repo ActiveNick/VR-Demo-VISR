@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Demo-VISR.CSharp", "VR-Demo-VISR.CSharp.csproj", "{5C40A48C-788E-1200-78EF-D4F0D8A47381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Demo-VISR.CSharp.Editor", "VR-Demo-VISR.CSharp.Editor.csproj", "{F1E649CD-17B9-5FAA-3228-2BCA320066EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C40A48C-788E-1200-78EF-D4F0D8A47381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C40A48C-788E-1200-78EF-D4F0D8A47381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C40A48C-788E-1200-78EF-D4F0D8A47381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C40A48C-788E-1200-78EF-D4F0D8A47381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E649CD-17B9-5FAA-3228-2BCA320066EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E649CD-17B9-5FAA-3228-2BCA320066EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E649CD-17B9-5FAA-3228-2BCA320066EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E649CD-17B9-5FAA-3228-2BCA320066EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
